@@ -1,5 +1,5 @@
 # Lab2part2
-# Compute Average
+# Average Calculator 
 a = float(input("Enter first value: "))
 b = float(input("Enter second value: "))
 
